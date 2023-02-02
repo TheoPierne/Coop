@@ -26,6 +26,6 @@ npm run dev
 npm run build
 ```
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3ea91184-2cc3-415d-9049-5bc8382fc129/deploy-status)](https://app.netlify.com/sites/winv-coop/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8c3faa24-6173-4f64-a825-6fa6665d446c/deploy-status)](https://app.netlify.com/sites/dazzling-kleicha-018f37/deploys)
 ---
-Winv
+TheoPierne
